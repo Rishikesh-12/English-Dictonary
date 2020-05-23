@@ -9,7 +9,7 @@
 
  
 ### How does the cli looks :-
-![alt text](https://github.com/Rishikesh-12/English-Dictonary/image/cli.png "English Dictionary")
+![alt text](https://github.com/Rishikesh-12/English-Dictonary/blob/master/image/cli.png)
 
 ### Code snippet :-
-![alt text](https://github.com/Rishikesh-12/English-Dictonary/blob/master/images/code.png "python code")
+![alt text](https://github.com/Rishikesh-12/English-Dictonary/blob/master/image/code.png)
